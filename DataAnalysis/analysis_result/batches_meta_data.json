@@ -1,0 +1,106 @@
+{
+  "10_EN_2024-10-20_17-56-30_tweets_1-1000.json": {
+    "status": "in_progress",
+    "batch_id": "batch_6755f278ee908191b6acf14e93122da6"
+  },
+  "11_EN_2024-10-20_18-43-36_tweets_1-1000.json": {
+    "status": "in_progress",
+    "batch_id": "batch_6755f294225081918eda3c9427a6bb25"
+  },
+  "12_EN_2024-10-20_19-13-59_tweets_1-1000.json": {
+    "status": "in_progress",
+    "batch_id": "batch_6755f2b85098819181de7896f23221e8"
+  },
+  "13_EN_2024-10-20_19-44-24_tweets_1-1000.json": {
+    "status": "in_progress",
+    "batch_id": "batch_6755f2d1270c8191906a5ff07e334759"
+  },
+  "1_EN_2024-10-20_12-13-01_tweets_1-1000.json": {
+    "status": "in_progress",
+    "batch_id": "batch_6755f2fa1c808191bbf63d2f0a3d7e4b"
+  },
+  "2_EN_2024-10-20_12-58-18_tweets_1-1000.json": {
+    "status": "in_progress",
+    "batch_id": "batch_6757210052988191bc7a293cb8e1cbbc"
+  },
+  "3_EN_2024-10-20_13-30-43_tweets_1-1000.json": {
+    "status": "in_progress",
+    "batch_id": "batch_6757216d67988191a09352fd53f54db2"
+  },
+  "4_EN_2024-10-20_14-03-10_tweets_1-436.json": {
+    "status": "in_progress",
+    "batch_id": "batch_675721b87dd08191920fae4bed96e95c"
+  },
+  "5_EN_2024-10-20_14-48-40_tweets_1-1000.json": {
+    "status": "in_progress",
+    "batch_id": "batch_675721f0d4e8819196f7533ada49829f"
+  },
+  "6_EN_2024-10-20_15-19-04_tweets_1-1000.json": {
+    "status": "in_progress",
+    "batch_id": "batch_675722a205b88191821269357f6c7db8"
+  },
+  "7_EN_2024-10-20_15-51-51_tweets_1-1000.json": {
+    "status": "in_progress",
+    "batch_id": "batch_675882ec9b448191a6af2c933eed70ab"
+  },
+  "8_EN_2024-10-20_16-38-06_tweets_1-1000.json": {
+    "status": "in_progress",
+    "batch_id": "batch_6758833220a881919556ddf2499aecea"
+  },
+  "9_EN_2024-10-20_17-09-25_tweets_1-1000.json": {
+    "status": "in_progress",
+    "batch_id": "batch_6758834ff818819181e080ee7d807afa"
+  },
+  "10_AR_2024-10-20_18-26-45_tweets_1-1000.json": {
+    "status": "in_progress",
+    "batch_id": "batch_675720b81db881919127fdf597f7c0b1"
+  },
+  "11_AR_2024-10-20_18-57-10_tweets_1-37.json": {
+    "status": "in_progress",
+    "batch_id": "batch_6755f2871e648191970772c66cad3126"
+  },
+  "12_AR_2024-10-20_19-15-29_tweets_1-80.json": {
+    "status": "in_progress",
+    "batch_id": "batch_6755f2a3935081918c6705f46c720f2f"
+  },
+  "13_AR_2024-10-20_19-45-51_tweets_1-28.json": {
+    "status": "in_progress",
+    "batch_id": "batch_6755f2c726cc8191975a879c44d12aeb"
+  },
+  "1_AR_2024-10-20_12-29-49_tweets_1-1000.json": {
+    "status": "in_progress",
+    "batch_id": "batch_6755f2e67f2081919c0d3d57d01f8497"
+  },
+  "2_AR_2024-10-20_13-13-56_tweets_1-1000.json": {
+    "status": "in_progress",
+    "batch_id": "batch_6755f3000d9c81919dcda934c6d29846"
+  },
+  "3_AR_2024-10-20_14-00-30_tweets_1-1000.json": {
+    "status": "in_progress",
+    "batch_id": "batch_6757213de65c819191e219e6cedcbcd0"
+  },
+  "4_AR_2024-10-20_14-31-52_tweets_1-1000.json": {
+    "status": "in_progress",
+    "batch_id": "batch_675721a056588191b8c9ab225f0e53c4"
+  },
+  "5_AR_2024-10-20_14-50-22_tweets_1-62.json": {
+    "status": "in_progress",
+    "batch_id": "batch_6755f369edb88191ad475804c8ca9905"
+  },
+  "6_AR_2024-10-20_15-36-09_tweets_1-1000.json": {
+    "status": "in_progress",
+    "batch_id": "batch_675722575b588191bedcf01ccf516deb"
+  },
+  "7_AR_2024-10-20_16-21-09_tweets_1-1000.json": {
+    "status": "in_progress",
+    "batch_id": "batch_675882dc4f8081919cec24a42967a4ba"
+  },
+  "8_AR_2024-10-20_16-56-35_tweets_1-1000.json": {
+    "status": "in_progress",
+    "batch_id": "batch_6757233f19248191b9ab8af914c2864e"
+  },
+  "9_AR_2024-10-20_17-39-41_tweets_1-1000.json": {
+    "status": "in_progress",
+    "batch_id": "batch_67588340dc108191bf5c00318f251f1d"
+  }
+}
