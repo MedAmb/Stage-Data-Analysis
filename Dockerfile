@@ -11,7 +11,7 @@ RUN apt-get update && apt-get install -y \
     software-properties-common
 
 # Copy the requirements file
-RUN pip install fake_headers>=1.0.2 pandas>=2.0.3 python-dotenv>=1.0.0 selenium>=4.12.0 webdriver_manager>=4.0.0 openai
+RUN pip install fake_headers>=1.0.2 pandas>=2.0.3 python-dotenv>=1.0.0 selenium>=4.12.0 webdriver_manager>=4.0.0 openai matplotlib
 
 # Install firefox and geckodriver
 RUN add-apt-repository ppa:mozillateam/ppa
